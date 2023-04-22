@@ -1,1 +1,1 @@
-# pyhton_algorithm
+# py_algorithm
